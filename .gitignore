@@ -79,6 +79,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# datafolders
+imageset1/
+imageset2/
+
 # IPython
 profile_default/
 ipython_config.py
