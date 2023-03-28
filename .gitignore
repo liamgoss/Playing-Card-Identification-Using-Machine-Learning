@@ -81,7 +81,7 @@ target/
 
 # datafolders
 imageset1/
-imageset2/
+Testset/
 
 # IPython
 profile_default/
