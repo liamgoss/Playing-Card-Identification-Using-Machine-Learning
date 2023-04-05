@@ -83,6 +83,7 @@ target/
 .ipynb_checkpoints
 
 # datafolders
+imageset2/
 imageset1/
 Testset/
 
